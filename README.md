@@ -45,13 +45,13 @@ Tüm kod tek bir dosya içinde yazılmıştır. (Geliştirme aşamasında modül
 
 Bu proje aşağıdaki yönlerden geliştirilebilir:
 
-* 🔹 Kodun modüler hale getirilmesi (`.h` ve `.cpp` dosyalarına ayrılması)
-* 🔹 Kullanıcı arayüzünün iyileştirilmesi (menü sistemi eklenmesi)
-* 🔹 Veritabanı entegrasyonu (SQLite / MySQL)
-* 🔹 Dosya yolu bağımlılığının kaldırılması
-* 🔹 Daha kapsamlı hata kontrol mekanizmaları
-* 🔹 Birden fazla rezervasyon yönetimi
-* 🔹 Test senaryolarının eklenmesi
+🔹 Kodun modüler hale getirilmesi (`.h` ve `.cpp` dosyalarına ayrılması)
+🔹 Kullanıcı arayüzünün iyileştirilmesi (menü sistemi eklenmesi)
+🔹 Veritabanı entegrasyonu (SQLite / MySQL)
+🔹 Dosya yolu bağımlılığının kaldırılması
+🔹 Daha kapsamlı hata kontrol mekanizmaları
+🔹 Birden fazla rezervasyon yönetimi
+🔹 Test senaryolarının eklenmesi
 
 ## 👩‍💻 Geliştirici
 
